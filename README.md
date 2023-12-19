@@ -1,0 +1,1 @@
+This project contains both mobile and desktop app. This is a security app, that decrypts an encrypted text that can be view through a camera and then the image from the camera is converted to text where the text can then be processed and decrypted. TECHNOLOGIES USED: Android Studio, Java, Python, Open CV, Pytesseract, Google Vision API, tKinter Framework.
